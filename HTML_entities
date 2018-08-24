@@ -4,8 +4,14 @@ non-breaking space
 less than	
 &lt;	
 
+less than	or equal to
+&le;	
+
 greater than	
 &gt;
+
+greater than or equal to
+&ge;
 
 ampersand	
 &amp;
@@ -19,7 +25,7 @@ single quotation mark (apostrophe)
 cent	
 &cent;
 
-£	pound	
+£ pound	
 &pound;
 
 yen	
